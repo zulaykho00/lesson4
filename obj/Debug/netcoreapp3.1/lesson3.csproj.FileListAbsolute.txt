@@ -1,0 +1,10 @@
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.deps.json
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.runtimeconfig.json
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.runtimeconfig.dev.json
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.dll
+/Users/azizjon/Projects/lesson3/bin/Debug/netcoreapp3.1/lesson3.pdb
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.csprojAssemblyReference.cache
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfoInputs.cache
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
+/Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
