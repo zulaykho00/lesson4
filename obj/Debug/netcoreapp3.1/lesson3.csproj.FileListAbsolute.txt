@@ -8,3 +8,16 @@
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
+C:\projects\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.exe
+C:\projects\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.deps.json
+C:\projects\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.json
+C:\projects\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.dev.json
+C:\projects\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.dll
+C:\projects\alifAcademyMiniMarket\bin\Debug\netcoreapp3.1\lesson3.pdb
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.csprojAssemblyReference.cache
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.csproj.CoreCompileInputs.cache
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfoInputs.cache
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfo.cs
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.dll
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.pdb
+C:\projects\alifAcademyMiniMarket\obj\Debug\netcoreapp3.1\lesson3.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/azizjon/Projects/lesson3/lesson3.csproj": {}
+    "C:\\projects\\alifAcademyMiniMarket\\lesson3.csproj": {}
   },
   "projects": {
-    "/Users/azizjon/Projects/lesson3/lesson3.csproj": {
+    "C:\\projects\\alifAcademyMiniMarket\\lesson3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/azizjon/Projects/lesson3/lesson3.csproj",
+        "projectUniqueName": "C:\\projects\\alifAcademyMiniMarket\\lesson3.csproj",
         "projectName": "lesson3",
-        "projectPath": "/Users/azizjon/Projects/lesson3/lesson3.csproj",
-        "packagesPath": "/Users/azizjon/.nuget/packages/",
-        "outputPath": "/Users/azizjon/Projects/lesson3/obj/",
+        "projectPath": "C:\\projects\\alifAcademyMiniMarket\\lesson3.csproj",
+        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\alifAcademyMiniMarket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/azizjon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

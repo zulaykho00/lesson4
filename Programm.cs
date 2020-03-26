@@ -40,6 +40,7 @@ namespace lesson3
                         {
                             basket += "Кола,";
                             userBalance -= 10;
+                            System.Console.WriteLine($"Ваш баланс - {userBalance}");
                         }
                         else
                         {
@@ -48,7 +49,80 @@ namespace lesson3
                         }
                         System.Console.Write("Вы хотите продолжить? д/н:");
                         if (Console.ReadLine().ToLower() == "д") goto start;
-                        else goto End;
+                        //else goto End;
+                    }
+                    break;
+                    case 2:
+                    {
+                        if (userBalance - 7 >= 0)
+                        {
+                            basket += "сникерс";
+                            userBalance -= 7;
+                            System.Console.WriteLine($"Ваш баланс - {userBalance}");
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                       // else goto End;
+                    }
+                     break;
+                   case 3:
+                   {
+                        if (userBalance - 9 >= 0)
+                        {
+                            basket += "марс,";
+                            userBalance -= 9;
+                            System.Console.WriteLine($"Ваш баланс - {userBalance}");
+                           
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                        //else goto End;
+                    }
+                    break;
+                    case 4:
+                    {
+                        if (userBalance - 4 >= 0)
+                        {
+                            basket += "M&Ms,";
+                            userBalance -= 4;
+                            System.Console.WriteLine($"Ваш баланс - {userBalance}");
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                        //else goto End;
+                    }
+                    break;
+                    case 5:
+                    {
+                        if (userBalance - 14 >= 0)
+                        {
+                            basket += "чипсы,";
+                            userBalance -= 14;
+                            System.Console.WriteLine($"Ваш баланс - {userBalance}");
+                        }
+                        else
+                        {
+                            System.Console.WriteLine(erroBalanceMessage);
+                            goto End;
+                        }
+                        System.Console.Write("Вы хотите продолжить? д/н:");
+                        if (Console.ReadLine().ToLower() == "д") goto start;
+                       // else goto End;
                     }
                     break;
                 case 6: goto End;
